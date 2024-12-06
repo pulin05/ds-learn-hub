@@ -2,3 +2,5 @@
 v_env
 .venv
 Python-Output
+credentials.json
+token.json
